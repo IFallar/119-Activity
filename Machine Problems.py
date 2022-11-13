@@ -79,7 +79,7 @@ print("\n\n")
 
 # Slicing the dataframe
 
-# Slice column to include 'hiqualty', 'satinfo', 'salesrep' with all of its observations
+# Slice column to include 'hiqualty', 'satinfo', 'salesrep' with all of its 
 print(df.loc[:, ['hiqualty', 'satinfo', 'salesrep']])
 print("\n\n")
 
